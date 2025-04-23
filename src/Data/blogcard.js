@@ -8,7 +8,7 @@ import image7 from '../assets/blog_home_images/1__e5HjS1Rzsl60ptS4XbP8A.png';
 import image8 from '../assets/blog_home_images/1_GcL1nnvBbl6WZyAZiq10hA.jpg'; 
 import image9 from '../assets/blog_home_images/1_EIScZ6OOE_KBoCF8afluyw.png'; 
 
-import avatar1 from '../assets/avatars/Avatar10.png'
+import avatar1 from '../assets/avatars/Avatar1.png'
 import avatar2 from '../assets/avatars/Avatar11.png'
 import avatar3 from '../assets/avatars/Avatar12.png'
 import avatar4 from '../assets/avatars/Avatar13.png'
