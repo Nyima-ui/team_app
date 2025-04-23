@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
       <section
-        className={`pb-12 w-full relative font-cabin min-h-[70vh] lg:min-h-[95vh] lg:before:bg-[position:30%_100%] lg:before:scale-116 lg:before:left-19 md:min-h-[95vh] md:before:scale-110 md:after:to-black/30 sm:before:bg-cover sm:before:scale-120 overflow-clip sm:before:bg-[30%_60%]  before:bg-[${heroPng}] before:inset-0 before:absolute before:bg-[47%_center] before:bg-no-repeat after:bg-radial-[at_60%_10%] after:from-black/30 before:from-30% after:to-black/60 after:absolute after:inset-0 px-7 md:px-13`}
+        className={`pb-12 w-full relative font-cabin min-h-[70vh] lg:min-h-[95vh] lg:before:bg-[position:30%_100%] lg:before:scale-116 lg:before:left-19 md:min-h-[95vh] md:before:scale-110 md:after:to-black/30 sm:before:bg-cover sm:before:scale-120 overflow-clip sm:before:bg-[30%_60%]  before:bg-[url('../assets/Hero.png')] before:inset-0 before:absolute before:bg-[47%_center] before:bg-no-repeat after:bg-radial-[at_60%_10%] after:from-black/30 before:from-30% after:to-black/60 after:absolute after:inset-0 px-7 md:px-13`}
        aria-label="Hero section"
       >
         <Navbar
