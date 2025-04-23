@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme{
+    --font-cabin: 'Cabin', sans-serif; 
+
+    --color-text-primary : #213757; 
+    --color-text-secondary : #223B5D; 
+    --color-text-h1 : #25313C; 
+    --color-text-quote : #697694; 
+    --color-text-blog : #324162; 
+    --color-pure-white : #FFFFFF; 
+
+    --color-bg-primary : #F5F7FA; 
+    --color-bg-secondary : #0BBEF2; 
+    --color-bg-tertiary : #F7AA00;   
+    --color-bg-footer : #3C4862; 
+
+    --color-bg-nav : #3C4862; 
+    --color-bg-nav-light : #EBF0FC; 
+    --color-bg-quote : #C3C8D4; 
+
+    --text-xs : 12px; 
+    --text-sm : 14px; 
+    --text-base : 16px; 
+    --text-lg : 18px; 
+    --text-xl : 20px; 
+    --text-2xl : 22px; 
+    --text-5xl : 55px;  
+
+    --background-image : url('../public/images/Hero.png'); 
+
+    --breakpoint-sm : 480px; 
+    --breakpoint-grid-sm : 600px; 
+}
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
