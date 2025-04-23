@@ -35,3 +35,7 @@
 .scrollbar-hide::-webkit-scrollbar{
     display: none;
 }
+
+.hero::before{
+   background-image: url('./assets/Hero.png');
+}
