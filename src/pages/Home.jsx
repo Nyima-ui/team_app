@@ -34,7 +34,7 @@ const Home = () => {
           </h1>
           <p className="text-xl leading-[1.5] max-w-md">
             All-in-one place for your remote team to chat, collaborate and track
-            project progress.
+            project progresssss.
           </p>
           <form
             className="flex mt-8 gap-2 flex-wrap md:mt-12"
