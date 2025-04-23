@@ -9,14 +9,14 @@ import image8 from '../assets/blog_home_images/1_GcL1nnvBbl6WZyAZiq10hA.jpg';
 import image9 from '../assets/blog_home_images/1_EIScZ6OOE_KBoCF8afluyw.png'; 
 
 import avatar1 from '../assets/avatars/Avatar1.png'
-import avatar2 from '../assets/avatars/Avatar11.png'
-import avatar3 from '../assets/avatars/Avatar12.png'
-import avatar4 from '../assets/avatars/Avatar13.png'
-import avatar5 from '../assets/avatars/Avatar14.png'
-import avatar6 from '../assets/avatars/Avatar6.png'
-import avatar7 from '../assets/avatars/Avatar7.png'
-import avatar8 from '../assets/avatars/Avatar8.png'
-import avatar9 from '../assets/avatars/Avatar9.png'
+import avatar2 from '../assets/avatars/avatar11.png'
+import avatar3 from '../assets/avatars/avatar12.png'
+import avatar4 from '../assets/avatars/avatar13.png'
+import avatar5 from '../assets/avatars/avatar14.png'
+import avatar6 from '../assets/avatars/avatar6.png'
+import avatar7 from '../assets/avatars/avatar7.png'
+import avatar8 from '../assets/avatars/avatar8.png'
+import avatar9 from '../assets/avatars/avatar9.png'
 
 const blogCarddata = [
     {
