@@ -80,12 +80,12 @@ const Testimonial = () => {
             className="px-8 py-10 min-w-64 shadow-lg space-y-5 rounded-md bg-white"
             aria-label={`Testimonial by ${obj.name}, ${obj.occupation}`}
           >
-            <img src={ratingPng} alt="5-star rating" aria-hidden="true" className="w-full h-full" />
+            <img src={ratingPng} alt="5-star rating" aria-hidden="true" />
             <blockquote className="text-text-secondary/70 font-semibold leading-6 font-cabin">
              <p>{obj.review}</p> 
             </blockquote>
             <footer className="flex gap-4 items-center mt-13">
-              <img src={obj.avatar} alt={`${obj.name} avatar`} className="w-full h-full"/>
+              <img src={obj.avatar} alt={`${obj.name} avatar`} />
               <div className="flex flex-col">
                 <strong className="block  text-text-primary font-semibold">
                   {obj.name}
